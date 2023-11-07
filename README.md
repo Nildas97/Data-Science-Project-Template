@@ -1,1 +1,1 @@
-# Machine-Learning-app
+# Data-Science-Project-Template
